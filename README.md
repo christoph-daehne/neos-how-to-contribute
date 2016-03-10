@@ -1,0 +1,1 @@
+This repository will cease to exists as soon as the contained work is finished.
