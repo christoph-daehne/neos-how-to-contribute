@@ -1,17 +1,11 @@
 # setup a local web server
 
-## PHP
-
-Install PHP according our [requirements](http://flowframework.readthedocs.org//en/stable/TheDefinitiveGuide/PartII/Requirements.html).
-
-## MySQL
-
-## web server
-
-Add *127.0.0.1 neosbase.dev* to your [hosts file](127.0.0.1 neosbase.dev) and
-	install a web server like *nginx* or *apache2*.
+1. Install MySQL
+1. Install PHP according our [requirements](http://flowframework.readthedocs.org//en/stable/TheDefinitiveGuide/PartII/Requirements.html).
+2. install your web server, e.g. *nginx* or *apache2*
+3. Add *127.0.0.1 neosbase.dev* to your [hosts file]("https://en.wikipedia.org/wiki/Hosts_(file)").
   
-### nginx
+## nginx
 
 [Install nginx](http://nginx.org/en/docs/install.html) and
   [configure](https://www.linode.com/docs/websites/nginx/how-to-configure-nginx) *http://neosbase.dev* as follows:
@@ -41,9 +35,9 @@ server {
 }
 ```
 
-### apache2
+## apache2
 
-Install apache2 and configure *http://neosbase.dev* as follows:
+Install apache2 and [configure](https://httpd.apache.org/docs/trunk/vhosts/) *http://neosbase.dev* as follows:
 
 ```
 NameVirtualHost *:80 # if needed
@@ -51,5 +45,6 @@ NameVirtualHost *:80 # if needed
 <VirtualHost *:80>
     DocumentRoot "/your/local/path/neos-development-distribution/Web/"
     ServerName neosbase.dev
+    ServerAlias *.neosbase.dev
 </VirtualHost>
 ```
