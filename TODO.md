@@ -3,6 +3,7 @@
 ## contribute
 
 * move to top level menu instead of inside every other menu-entry
+* replaces *Join*
 * get links right
   * no circles
   * from overviews to details
@@ -10,7 +11,16 @@
 ### darf: contribute outline
 
 * Work on Neos or Flow
-  * see [outline]()
+  * Work on Neos or Flow
+    * Programming
+      * *!!! put almost everything inside http://neos.readthedocs.org/en/stable/Contribute/index.html and link it !!!*
+      * quick start
+      * preliminaries
+    * Testing
+    * Usability
+    * Translations
+    * Documentation
+    * Feature ideas or anything else useful for Neos
 * Join a Team
   * Why?
   * What does that mean for me?
