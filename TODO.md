@@ -2,11 +2,11 @@
 
 ## contribute
 
-* move to top level menu instead of inside every other menu-entry
+* move to top level menu (instead of inside every other menu-entry)
 * replaces *Join*
 * get links right
   * no circles
-  * from overviews to details
+  * from overview to details
   
 ### darf: contribute outline
 
@@ -16,6 +16,9 @@
       * *!!! put almost everything inside http://neos.readthedocs.org/en/stable/Contribute/index.html and link it !!!*
       * quick start
       * preliminaries
+      * repositories
+        * *overview over github repositories*
+        * *??? see [GraphComposer](https://github.com/clue/graph-composer/tree/master/src/Clue/GraphComposer)* (extend it by --exclude= to skip external dependencies)
     * Testing
     * Usability
     * Translations
