@@ -19,7 +19,7 @@ Add *127.0.0.1 neosbase.dev* to your [hosts file](127.0.0.1 neosbase.dev) and
 ```
 server {
   listen 80 ;
-  root /your/local/path/;
+  root /your/local/path/neos-development-distribution/Web/;
   server_name neosbase.dev *.neosbase.dev ;
 
   client_max_body_size 50M;
@@ -49,9 +49,7 @@ Install apache2 and configure *http://neosbase.dev* as follows:
 NameVirtualHost *:80 # if needed
 
 <VirtualHost *:80>
-    DocumentRoot "/your/htdocs/Neos-2.1/Web/"
-    # skip the following line for development
-    SetEnv FLOW_CONTEXT Production
-    ServerName neos.demo
+    DocumentRoot "/your/local/path/neos-development-distribution/Web/"
+    ServerName neosbase.dev
 </VirtualHost>
 ```
