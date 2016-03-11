@@ -4,7 +4,7 @@
 
 * move to top level menu (instead of inside every other menu-entry)
 * replaces *Join*
-* get links right
+* get links right (see outline below)
   * no circles
   * from overview to details
   
