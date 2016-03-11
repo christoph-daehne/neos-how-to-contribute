@@ -8,31 +8,38 @@
   * no circles
   * from overview to details
   
-### darf: contribute outline
+### draft: contribute outline
 
 * Work on Neos or Flow
-  * Work on Neos or Flow
-    * Programming
-      * *!!! put almost everything inside http://neos.readthedocs.org/en/stable/Contribute/index.html and link it !!!*
-      * quick start
-      * preliminaries
-      * repositories
-        * *overview over github repositories*
-        * *??? see [GraphComposer](https://github.com/clue/graph-composer/tree/master/src/Clue/GraphComposer)* (extend it by --exclude= to skip external dependencies)
-    * Testing
-    * Usability
-    * Translations
-    * Documentation
-    * Feature ideas or anything else useful for Neos
+  * Programming
+       * *!!! put almost everything inside http://neos.readthedocs.org/en/stable/Contribute/index.html and link it !!!*
+    * quick start
+    * preliminaries
+    * repositories
+      * *overview over github repositories*
+      * *??? see [GraphComposer](https://github.com/clue/graph-composer/tree/master/src/Clue/GraphComposer)* (extend it by --exclude= to skip external dependencies)
+  * Testing
+  * Usability
+  * Translations
+  * Documentation
+  * Feature ideas or anything else useful for Neos
+* Visit a Code Sprint
+  * *basically same as in quick-start*
+* Join a Project
+  * *What is a project?*
+  * Why and How?
+  * What does the membership mean for me?
+  * All Projects
 * Join a Team
-  * Why?
-  * What does that mean for me?
+  * *What is a Team?*
+  * Why and How?
+  * What does the membership mean for me?
   * All Teams
     * *list of teams, member and contact persons*
 * Support our Funding
   * *[current funding page](https://www.neos.io/join/support-neos-project.html)*
 
-## https://www.neos.io/develop/contribute.html
+## errors in https://www.neos.io/develop/contribute.html
 
 ### Development Workflow
 
