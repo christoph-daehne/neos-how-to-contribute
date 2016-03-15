@@ -1,6 +1,4 @@
-# neos.io
-
-## contribute
+# contribute @neos.io
 
 * move to top level menu (instead of inside every other menu-entry)
 * replaces *Join*
@@ -8,47 +6,37 @@
   * no circles
   * from overview to details
   
-### draft: contribute outline
+## outline
 
 * Work on Neos or Flow
   * Programming
-       * *!!! put almost everything inside http://neos.readthedocs.org/en/stable/Contribute/index.html and link it !!!*
-    * quick start
-    * preliminaries
+    * quick start (already at [neos.io](https://www.neos.io/develop/contribute.html))
+    * preliminaries (already at [neos.io](https://www.neos.io/develop/contribute.html))
     * repositories
       * *overview over github repositories*
-      * *??? see [GraphComposer](https://github.com/clue/graph-composer/tree/master/src/Clue/GraphComposer)* (extend it by --exclude= to skip external dependencies)
+      * *??? [GraphComposer](https://github.com/clue/graph-composer/tree/master/src/Clue/GraphComposer)* (extend it by --exclude= to skip external dependencies)
   * Testing
   * Usability
   * Translations
   * Documentation
   * Feature ideas or anything else useful for Neos
 * Visit a Code Sprint
-  * *basically same as in quick-start*
+  * *basically same as in Programming/quick-start*
 * Join a Project
   * *What is a project?*
   * Why and How?
   * What does the membership mean for me?
-  * All Projects
+  * Projects
+    * *list of current projects and contact person*
 * Join a Team
   * *What is a Team?*
   * Why and How?
   * What does the membership mean for me?
-  * All Teams
+  * Teams
     * *list of teams, member and contact persons*
 * Support our Funding
-  * *[current funding page](https://www.neos.io/join/support-neos-project.html)*
+  * *[targets current funding page](https://www.neos.io/join/support-neos-project.html)*
 
-## errors in https://www.neos.io/develop/contribute.html
-
-### Development Workflow
-
-link quick-start
-
-### Frequently Asked Questions
-
-* re-write out dated *I want to contribute to the documentation, how?*
-* add links in answer to *I want to contribute code, can I just click edit on GitHub and start fixing small issues?*
 
 # readthedocs.org
 
